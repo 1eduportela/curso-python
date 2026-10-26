@@ -30,8 +30,8 @@ Las soluciones "oficiales" no se suben: primero se intenta, luego pistas, y solo
 ## Ruta
 
 ### Bloque 1 · Fundamentos
-- [ ] [01 · Variables y tipos](bloque01_fundamentos/01_variables_tipos/leccion.md)
-- [ ] 02 · Operadores
+- [x] [01 · Variables y tipos](bloque01_fundamentos/01_variables_tipos/leccion.md)
+- [ ] [02 · Operadores](bloque01_fundamentos/02_operadores/leccion.md)
 - [ ] 03 · Condicionales
 - [ ] 04 · Bucles
 - [ ] 05 · Funciones
