@@ -1,0 +1,15 @@
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Jupyter (bloques 6-8)
+.ipynb_checkpoints/
+
+# Editor y sistema
+.vscode/
+.DS_Store
+Thumbs.db
