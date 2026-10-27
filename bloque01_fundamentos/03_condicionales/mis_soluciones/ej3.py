@@ -1,10 +1,4 @@
-# | Sistema | a, b, c, d, e, f | Salida esperada |
-# |---|---|---|
-# | 2x + y = 5; x − y = 1 | 2, 1, 1, -1, 5, 1 | x = 2.00, y = 1.00 |
-# | 3x = 6; 2y = 3 | 3, 0, 0, 2, 6, 3 | x = 2.00, y = 1.50 |
-# | x + 2y = 4; 2x + 4y = 8 | 1, 2, 2, 4, 4, 8 | El sistema no tiene solución única |
-
-print("Te voy a pedir los valores de a, b, c, d, e y f para construir un sistema de ecuaciones (a·x + b·y = e, c·x + d·y = f) y encontrar la solución:...")
+print("Te voy a pedir los valores para construir y resolver un sistema de ecuaciones:...")
 
 a = float(input("a?"))
 b = float(input("b?"))
