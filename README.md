@@ -31,8 +31,8 @@ Las soluciones "oficiales" no se suben: primero se intenta, luego pistas, y solo
 
 ### Bloque 1 · Fundamentos
 - [x] [01 · Variables y tipos](bloque01_fundamentos/01_variables_tipos/leccion.md)
-- [ ] [02 · Operadores](bloque01_fundamentos/02_operadores/leccion.md)
-- [ ] 03 · Condicionales
+- [x] [02 · Operadores](bloque01_fundamentos/02_operadores/leccion.md)
+- [ ] [03 · Condicionales](bloque01_fundamentos/03_condicionales/leccion.md)
 - [ ] 04 · Bucles
 - [ ] 05 · Funciones
 - [ ] Mini proyecto 1
