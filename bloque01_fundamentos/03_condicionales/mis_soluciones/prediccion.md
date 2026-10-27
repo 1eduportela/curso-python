@@ -6,5 +6,6 @@ False
 aprobado
 vacio
 B
+C
 impar
 ```
