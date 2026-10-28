@@ -34,7 +34,7 @@ Las soluciones "oficiales" no se suben: primero se intenta, luego pistas, y solo
 - [x] [02 · Operadores](bloque01_fundamentos/02_operadores/leccion.md)
 - [x] [03 · Condicionales](bloque01_fundamentos/03_condicionales/leccion.md)
 - [ ] [04 · Bucles](bloque01_fundamentos/04_bucles/leccion.md)
-- [ ] 05 · Funciones
+- [ ] [05 · Funciones](bloque01_fundamentos/05_funciones/leccion.md)
 - [ ] Mini proyecto 1
 
 ### Próximos bloques
