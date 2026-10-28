@@ -15,4 +15,4 @@ else:
     x = (e*d - b*f) / det
     y = (a*f - e*c) / det
 
-    print(f"La solcuión al sistema es ({x},{y})")
+    print(f"La solcuión al sistema es x={x} y={y}")
