@@ -3,6 +3,28 @@
 Resúmenes de sesión, del más reciente al más antiguo.
 Cada resumen recoge: temas vistos, ejercicios hechos, puntos débiles y siguiente paso.
 
+## Sesión 3 · 28 oct 2026
+
+**Temas vistos**
+- Lección 04: `while`, `for` con `range()`, recorrer textos, `break`/`continue`, patrón acumulador, `print(..., end=" ")`.
+- Dudas resueltas: potencia de una matriz como producto acumulado (asociatividad); variables temporales para no machacar valores que todavía se necesitan.
+
+**Ejercicios hechos**
+- Predicción 04: corregida dos veces; aún sobra una línea `-2` en el `while`, y `Pyt` son tres líneas.
+- Ej. 1, tabla de multiplicar: funciona, pero empieza en `x 0` en vez de en `x 1`.
+- Ej. 2, suma de dígitos: funciona, pero convirtiendo a texto en lugar de con `while`, `//` y `%`. Este requisito pasa al ej. 2 de la Lección 05.
+- Ej. 3, potencia de una matriz 2×2: cálculo ✅ (trampa resuelta con variables temporales); falta mostrar el resultado en dos líneas.
+
+**Puntos débiles**
+- Pensar que `range` incluye el final.
+- La sangría decide qué está dentro del bucle (el `print` fuera del `while`).
+- Leer el enunciado con lupa: "del 1 al 10", "sin convertir a texto", "en dos líneas".
+- Corregir la predicción sin ejecutar el código para comprobarla.
+- Otra vez un nombre de función integrada como variable (`min`).
+
+**Siguiente paso**
+- Lección 05: funciones (subida, sin empezar). Retoques opcionales: L03 ej. 3 (`:.2f`) y L04 ej. 1 y ej. 3.
+
 ## Sesión 2 · 27 oct 2026
 
 **Temas vistos**
