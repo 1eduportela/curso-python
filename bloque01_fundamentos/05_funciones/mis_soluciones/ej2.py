@@ -11,9 +11,9 @@ def suma_digitos(n):
 def divisible_por_tres(n):
     """Devuelve si n es un número divisible entre tres"""
     if suma_digitos(n)%3:
-        return True
-    else:
         return False
+    else:
+        return True
 
 print(suma_digitos(1234))
 print(suma_digitos(1000))
