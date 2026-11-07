@@ -33,9 +33,9 @@ Las soluciones "oficiales" no se suben: primero se intenta, luego pistas, y solo
 - [x] [01 · Variables y tipos](bloque01_fundamentos/01_variables_tipos/leccion.md)
 - [x] [02 · Operadores](bloque01_fundamentos/02_operadores/leccion.md)
 - [x] [03 · Condicionales](bloque01_fundamentos/03_condicionales/leccion.md)
-- [ ] [04 · Bucles](bloque01_fundamentos/04_bucles/leccion.md)
-- [ ] [05 · Funciones](bloque01_fundamentos/05_funciones/leccion.md)
-- [ ] Mini proyecto 1
+- [x] [04 · Bucles](bloque01_fundamentos/04_bucles/leccion.md)
+- [x] [05 · Funciones](bloque01_fundamentos/05_funciones/leccion.md)
+- [ ] [Mini proyecto 1 · Calculadora de vectores](proyectos/01_calculadora_vectores/enunciado.md)
 
 ### Próximos bloques
 - [ ] **Bloque 2 · Estructuras de datos**: listas, tuplas, diccionarios, conjuntos
