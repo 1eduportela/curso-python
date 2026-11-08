@@ -35,10 +35,16 @@ Las soluciones "oficiales" no se suben: primero se intenta, luego pistas, y solo
 - [x] [03 · Condicionales](bloque01_fundamentos/03_condicionales/leccion.md)
 - [x] [04 · Bucles](bloque01_fundamentos/04_bucles/leccion.md)
 - [x] [05 · Funciones](bloque01_fundamentos/05_funciones/leccion.md)
-- [ ] [Mini proyecto 1 · Calculadora de vectores](proyectos/01_calculadora_vectores/enunciado.md)
+- [x] [Mini proyecto 1 · Calculadora de vectores](proyectos/01_calculadora_vectores/enunciado.md)
+
+### Bloque 2 · Estructuras de datos
+- [ ] [06 · Listas](bloque02_estructuras_datos/06_listas/leccion.md)
+- [ ] 07 · Tuplas
+- [ ] 08 · Diccionarios
+- [ ] 09 · Conjuntos
+- [ ] Mini proyecto 2
 
 ### Próximos bloques
-- [ ] **Bloque 2 · Estructuras de datos**: listas, tuplas, diccionarios, conjuntos
 - [ ] **Bloque 3 · Texto, archivos y errores**: cadenas, lectura/escritura de archivos, excepciones
 - [ ] **Bloque 4 · Programación orientada a objetos**: clases y objetos
 - [ ] **Bloque 5 · Buenas prácticas**: código legible, módulos, pruebas sencillas
