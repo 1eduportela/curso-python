@@ -38,7 +38,7 @@ def calculadora():
             contador+=1
         elif i=="5":
             print("Gracias por usar mi cacluladora")
-            if contador>=2:
+            if contador>=2 or contador==0:
                 print(f"Has hecho {contador} operaciones")
             else:
                 print(f"Has hecho {contador} operacion")
