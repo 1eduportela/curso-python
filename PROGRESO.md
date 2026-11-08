@@ -3,6 +3,30 @@
 Resúmenes de sesión, del más reciente al más antiguo.
 Cada resumen recoge: temas vistos, ejercicios hechos, puntos débiles y siguiente paso.
 
+## Sesión 4 · 7 nov 2026
+
+**Temas vistos**
+- Lección 05: `def`, `return` frente a `print`, funciones sin `return` que devuelven `None`, parámetros por defecto y por nombre, docstrings, `math.acos` y `math.degrees`.
+- Dudas resueltas: sumar dígitos con `% 10` y `// 10`; `IndentationError` por niveles de sangría distintos; la fórmula da cos θ, no θ.
+- Inicio del mini proyecto 1 (calculadora de vectores).
+
+**Ejercicios hechos**
+- L05 ej. 1, bisiestos: ✅
+- L05 ej. 2, suma de dígitos con `while` ✅; `divisible_por_3` ✅ tras corregir la lógica invertida (`if x % 3:`).
+- L05 ej. 3, ángulo entre vectores: ✅ (falta mostrarlo con 2 decimales).
+- Predicción 05: falta que salgan juntos `Hola, Edu` y `None`.
+- Mini proyecto 1: el menú funciona con opciones numéricas. Pendiente: que `hola` no lo rompa, coordenadas con `float`, formato de salida y contador de operaciones.
+
+**Puntos débiles**
+- `range` no incluye el final (tercera lección seguida; hay una pregunta pendiente).
+- `input()` siempre devuelve texto: `"1"` no es `1`.
+- Escribir el nombre de una función sin llamarla (`producto_escalar == 0`, como el `{sum}` de la L01).
+- Sangría consistente: 4 espacios por nivel.
+- No comparar la salida con la esperada antes de subir.
+
+**Siguiente paso**
+- Terminar el mini proyecto 1 y pasar al bloque 2: listas.
+
 ## Sesión 3 · 28 oct 2026
 
 **Temas vistos**
